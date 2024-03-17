@@ -1,0 +1,75 @@
+name: trackinghwapp
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+
+
+  cupertino_icons: ^1.0.2
+  #Firebase
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.8.0
+
+  url_launcher: ^6.2.2
+  firebase_storage: ^11.5.6
+
+  image_picker: ^0.8.7+5
+
+  email_validator: ^2.1.17
+  google_fonts: ^4.0.4
+  intl: ^0.18.1
+  path: ^1.8.3
+  firebase_auth: ^4.15.3
+  firebase_app_check: ^0.2.1+8
+
+
+  google_sign_in: ^6.2.1
+  googleapis: ^11.2.0
+  googleapis_auth: ^1.4.1
+
+  dropdown_button2: ^2.3.9
+
+
+  google_nav_bar: ^5.0.6
+
+  file_picker: ^6.1.1
+
+  card_swiper: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/hw-letter-logo-icon-design-template-elements-vector-31257233.jpg
+    - assets/5027360.png
+    - assets/Google__G__logo.svg.png
+    - assets/send.png
+    - assets/profil.jpg
+    - assets/computerdesign.jpeg
+
+
+
+
